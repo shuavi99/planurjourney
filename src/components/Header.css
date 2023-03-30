@@ -1,0 +1,120 @@
+.frame-child31,
+.frame-child32 {
+  position: absolute;
+  top: 2.38rem;
+  left: 0;
+  background-color: var(--color-gainsboro-100);
+  width: 90rem;
+  height: 0.06rem;
+}
+.frame-child32 {
+  top: 7.63rem;
+  background-color: var(--color-gainsboro-200);
+}
+.about-us1 {
+  position: absolute;
+  top: 0;
+  left: 0;
+  cursor: pointer;
+}
+.media,
+.plan-journey,
+.type-of-travel {
+  position: absolute;
+  top: 0;
+  left: 8.44rem;
+}
+.media,
+.type-of-travel {
+  left: 19.88rem;
+}
+.media {
+  left: 31.31rem;
+  cursor: pointer;
+}
+.about-us-parent,
+.frame-icon {
+  position: absolute;
+  top: 4.06rem;
+  left: 26.56rem;
+  width: 35rem;
+  height: 1.63rem;
+}
+.frame-icon {
+  top: 2.94rem;
+  left: 11.25rem;
+  width: 7.75rem;
+  height: 3.91rem;
+  object-fit: cover;
+}
+.frame-child33 {
+  position: relative;
+  width: 0.97rem;
+  height: 1.03rem;
+  flex-shrink: 0;
+}
+.login {
+  position: relative;
+  font-weight: 600;
+}
+.frame-child34 {
+  position: relative;
+  width: 1.07rem;
+  height: 1.07rem;
+  flex-shrink: 0;
+}
+.group-parent {
+  position: absolute;
+  top: 0.63rem;
+  left: 69.94rem;
+  width: 8.81rem;
+  height: 1.31rem;
+  display: flex;
+  flex-direction: row;
+  align-items: center;
+  justify-content: flex-start;
+  gap: var(--gap-4xs);
+  font-size: 1.03rem;
+  color: var(--black);
+}
+.search1 {
+  position: relative;
+  font-weight: 500;
+}
+.iconactionsearch-24px {
+  position: relative;
+  width: 1.33rem;
+  height: 1.31rem;
+  flex-shrink: 0;
+}
+.search-parent {
+  position: absolute;
+  top: 3.75rem;
+  left: 69.13rem;
+  border-radius: var(--br-9xs);
+  border: 1px solid var(--color-gray-400);
+  box-sizing: border-box;
+  width: 9.69rem;
+  height: 2.25rem;
+  display: flex;
+  flex-direction: row;
+  padding: var(--padding-5xs) var(--padding-5xs) var(--padding-5xs)
+    var(--padding-xs);
+  align-items: center;
+  justify-content: flex-start;
+  gap: var(--gap-43xl);
+  font-size: var(--font-size-base);
+  color: var(--color-darkslategray-200);
+}
+.rectangle-parent16 {
+  position: absolute;
+  top: 0;
+  left: 0;
+  background-color: var(--color-white);
+  width: 90rem;
+  height: 8.25rem;
+  text-align: left;
+  font-size: var(--font-size-xl);
+  color: var(--color-darkslategray-100);
+  font-family: var(--font-mulish);
+}

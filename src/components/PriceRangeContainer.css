@@ -1,0 +1,114 @@
+.b7,
+.reviews4 {
+  position: absolute;
+  top: 15.13rem;
+  left: 3.32rem;
+}
+.b7 {
+  top: 16.13rem;
+  left: 1.01rem;
+  font-size: 0.98rem;
+}
+.vector-icon33,
+.vector-icon34,
+.vector-icon35 {
+  position: absolute;
+  height: 3.51%;
+  width: 4.89%;
+  top: 76.6%;
+  right: 83.63%;
+  bottom: 19.89%;
+  left: 11.49%;
+  max-width: 100%;
+  overflow: hidden;
+  max-height: 100%;
+}
+.vector-icon34,
+.vector-icon35 {
+  right: 78.54%;
+  left: 16.57%;
+}
+.vector-icon35 {
+  height: 3.34%;
+  width: 4.65%;
+  right: 88.52%;
+  bottom: 20.05%;
+  left: 6.82%;
+}
+.frame-child30 {
+  position: absolute;
+  top: 1rem;
+  left: 0.95rem;
+  border-radius: 6.76px;
+  width: 12.95rem;
+  height: 10.31rem;
+  object-fit: cover;
+}
+.the-corner-house {
+  margin: 0;
+}
+.the-corner-house-container {
+  position: absolute;
+  top: 12.19rem;
+  left: 0.94rem;
+  font-weight: 600;
+  display: inline-block;
+  width: 12.94rem;
+}
+.see-details6 {
+  position: absolute;
+  top: 16.46rem;
+  left: 9.1rem;
+  font-size: 0.68rem;
+  text-decoration: underline;
+}
+.manali-himanchal-pradesh4 {
+  position: absolute;
+  top: 17.7rem;
+  left: 1.7rem;
+  font-size: 0.61rem;
+  font-weight: 500;
+  color: var(--color-darkgray-200);
+}
+.rectangle-parent15 {
+  position: absolute;
+  top: 0;
+  left: 0;
+  border-radius: 10.15px;
+  border: 0.8px solid var(--color-black);
+  box-sizing: border-box;
+  width: 14.74rem;
+  height: 19.5rem;
+}
+.vector-icon36 {
+  position: absolute;
+  height: 3.2%;
+  width: 3.45%;
+  top: 91.42%;
+  right: 89.64%;
+  bottom: 5.38%;
+  left: 6.91%;
+  max-width: 100%;
+  overflow: hidden;
+  max-height: 100%;
+}
+.frame-container,
+.reviews-group {
+  position: absolute;
+  width: 14.74rem;
+  height: 19.5rem;
+}
+.frame-container {
+  top: 0;
+  left: 0;
+  font-size: 0.9rem;
+}
+.reviews-group {
+  top: 150.56rem;
+  left: 60.74rem;
+  box-shadow: 4px 4px 30px rgba(0, 0, 0, 0.25);
+  text-align: left;
+  font-size: 0.46rem;
+  color: var(--color-dimgray-100);
+  font-family: var(--font-mulish);
+}

@@ -1,0 +1,207 @@
+.div {
+  position: absolute;
+  top: 8.25rem;
+  left: 11.38rem;
+  font-size: 0.88rem;
+  text-transform: uppercase;
+  font-family: var(--font-hind);
+  text-shadow: 0 0 0 rgba(255, 255, 255, 0.01);
+}
+.emblem-dark-2-icon {
+  position: absolute;
+  top: -0.25rem;
+  left: -0.25rem;
+  width: 3.35rem;
+  height: 5.25rem;
+  object-fit: cover;
+}
+.ministry-of-tourism {
+  top: 2.48rem;
+  left: 3.41rem;
+  font-weight: 500;
+}
+.div1,
+.government-of-india,
+.ministry-of-tourism {
+  position: absolute;
+  text-shadow: 0 0 0 rgba(255, 255, 255, 0.01);
+}
+.government-of-india {
+  top: 5.36rem;
+  left: 4.31rem;
+  font-size: var(--font-size-xs);
+  text-transform: uppercase;
+}
+.div1 {
+  top: 1.14rem;
+  left: 3.41rem;
+  font-size: 0.93rem;
+  font-weight: 500;
+  font-family: var(--font-hind);
+}
+.emblem-dark-2-parent {
+  position: absolute;
+  top: 3.06rem;
+  left: 11.38rem;
+  box-shadow: 0 0 0 4px rgba(255, 255, 255, 0.01);
+  width: 13.06rem;
+  height: 6.36rem;
+  font-size: 0.88rem;
+  font-family: var(--font-mulish);
+}
+.eservices,
+.eservices1,
+.eservices2 {
+  position: absolute;
+  top: 10.19rem;
+  left: 27.56rem;
+  font-weight: 300;
+  text-shadow: 0 0 0 rgba(255, 255, 255, 0.01);
+}
+.eservices1,
+.eservices2 {
+  left: 46.06rem;
+}
+.eservices2 {
+  left: 64.56rem;
+}
+.dekho-apna-desh,
+.dekho-apna-desh1,
+.dekho-apna-desh2 {
+  position: absolute;
+  top: 11.81rem;
+  left: 27.56rem;
+  font-weight: 300;
+}
+.dekho-apna-desh1,
+.dekho-apna-desh2 {
+  left: 46.06rem;
+}
+.dekho-apna-desh2 {
+  left: 64.56rem;
+}
+.yuva-tourism-club,
+.yuva-tourism-club1,
+.yuva-tourism-club2 {
+  position: absolute;
+  top: 13.44rem;
+  left: 27.56rem;
+  font-weight: 300;
+  text-shadow: 0 0 0 rgba(255, 255, 255, 0.01);
+}
+.yuva-tourism-club1,
+.yuva-tourism-club2 {
+  left: 46.06rem;
+}
+.yuva-tourism-club2 {
+  left: 64.56rem;
+}
+.vidhi-sahitya-prakashan,
+.vidhi-sahitya-prakashan1,
+.vidhi-sahitya-prakashan2 {
+  position: absolute;
+  top: 15.06rem;
+  left: 27.56rem;
+  font-weight: 300;
+  text-shadow: 0 0 0 rgba(255, 255, 255, 0.01);
+}
+.vidhi-sahitya-prakashan1,
+.vidhi-sahitya-prakashan2 {
+  left: 46.06rem;
+}
+.vidhi-sahitya-prakashan2 {
+  left: 64.56rem;
+}
+.bhasha-sangam-app,
+.ebsb-quiz-game,
+.swadesh-darshan,
+.swadesh-darshan1,
+.swadesh-darshan2 {
+  position: absolute;
+  top: 16.69rem;
+  left: 27.56rem;
+  font-weight: 300;
+  text-shadow: 0 0 0 rgba(255, 255, 255, 0.01);
+}
+.bhasha-sangam-app,
+.ebsb-quiz-game,
+.swadesh-darshan1,
+.swadesh-darshan2 {
+  left: 46.06rem;
+}
+.bhasha-sangam-app,
+.ebsb-quiz-game,
+.swadesh-darshan2 {
+  left: 64.56rem;
+}
+.bhasha-sangam-app,
+.ebsb-quiz-game {
+  top: 18.31rem;
+  left: 27.56rem;
+}
+.ebsb-quiz-game {
+  top: 19.94rem;
+}
+.latest-program-application {
+  margin: 0;
+}
+.about-us,
+.important-links,
+.important-links1,
+.latest-program-application-container {
+  position: absolute;
+  top: 21.56rem;
+  left: 27.56rem;
+  font-weight: 300;
+  text-shadow: 0 0 0 rgba(255, 255, 255, 0.01);
+}
+.about-us,
+.important-links,
+.important-links1 {
+  top: 7.5rem;
+  font-size: var(--font-size-5xl);
+  font-weight: 600;
+  font-family: var(--font-mulish);
+}
+.about-us,
+.important-links1 {
+  left: 46.06rem;
+}
+.about-us {
+  left: 64.56rem;
+}
+.vector-icon10,
+.vector-icon11,
+.vector-icon9 {
+  position: absolute;
+  height: 3.52%;
+  width: 1.67%;
+  top: 75.51%;
+  right: 83.12%;
+  bottom: 20.97%;
+  left: 15.21%;
+  max-width: 100%;
+  overflow: hidden;
+  max-height: 100%;
+}
+.vector-icon10,
+.vector-icon11 {
+  right: 80.83%;
+  left: 17.5%;
+}
+.vector-icon11 {
+  right: 85.42%;
+  left: 12.92%;
+}
+.parent {
+  position: absolute;
+  top: 254.06rem;
+  left: -0.12rem;
+  background-color: var(--color-lavenderblush);
+  width: 90rem;
+  height: 42.63rem;
+  text-align: left;
+  font-size: var(--font-size-base);
+  color: var(--black);
+  font-family: var(--font-inter);
+}

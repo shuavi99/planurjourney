@@ -1,0 +1,97 @@
+.frame-child27 {
+  position: absolute;
+  top: 1rem;
+  left: 0.95rem;
+  border-radius: 6.76px;
+  width: 12.95rem;
+  height: 10.31rem;
+  object-fit: cover;
+}
+.sun-park-resort {
+  position: absolute;
+  top: 12.17rem;
+  left: 0.95rem;
+  font-size: 0.9rem;
+  font-weight: 600;
+}
+.see-details3 {
+  position: absolute;
+  top: 15.64rem;
+  left: 9.1rem;
+  font-size: 0.68rem;
+  text-decoration: underline;
+}
+.b4,
+.per-night,
+.reviews1 {
+  position: absolute;
+  top: 15.72rem;
+  left: 4.29rem;
+}
+.b4,
+.reviews1 {
+  top: 14.26rem;
+  left: 3.78rem;
+  font-size: 0.46rem;
+}
+.b4 {
+  top: 15.28rem;
+  left: 1.02rem;
+  font-size: 1.04rem;
+}
+.left-bank-aleo1 {
+  position: absolute;
+  top: 17.7rem;
+  left: 1.7rem;
+  font-weight: 500;
+  color: var(--color-darkgray-200);
+}
+.vector-icon15,
+.vector-icon16,
+.vector-icon17,
+.vector-icon19 {
+  position: absolute;
+  height: 3.2%;
+  width: 3.45%;
+  top: 91.42%;
+  right: 89.64%;
+  bottom: 5.38%;
+  left: 6.91%;
+  max-width: 100%;
+  overflow: hidden;
+  max-height: 100%;
+}
+.vector-icon16,
+.vector-icon17,
+.vector-icon19 {
+  height: 4.25%;
+  width: 5.92%;
+  top: 71.27%;
+  right: 87.66%;
+  bottom: 24.48%;
+  left: 6.42%;
+}
+.vector-icon17,
+.vector-icon19 {
+  right: 81.74%;
+  left: 12.34%;
+}
+.vector-icon19 {
+  right: 75.82%;
+  left: 18.26%;
+}
+.rectangle-parent12 {
+  position: absolute;
+  top: 126.56rem;
+  left: 27.22rem;
+  border-radius: 10.15px;
+  box-shadow: 4px 4px 30px rgba(0, 0, 0, 0.25);
+  border: 0.8px solid var(--color-black);
+  box-sizing: border-box;
+  width: 14.74rem;
+  height: 19.5rem;
+  text-align: left;
+  font-size: 0.61rem;
+  color: var(--color-dimgray-100);
+  font-family: var(--font-mulish);
+}

@@ -1,0 +1,51 @@
+.per-night2 {
+  position: absolute;
+  top: 15.72rem;
+  left: 4.29rem;
+}
+.vector-icon29,
+.vector-icon30,
+.vector-icon31,
+.vector-icon32 {
+  position: absolute;
+  height: 3.2%;
+  width: 3.45%;
+  top: 91.42%;
+  right: 89.64%;
+  bottom: 5.38%;
+  left: 6.91%;
+  max-width: 100%;
+  overflow: hidden;
+  max-height: 100%;
+}
+.vector-icon30,
+.vector-icon31,
+.vector-icon32 {
+  height: 4.25%;
+  width: 5.92%;
+  top: 71.27%;
+  right: 87.66%;
+  bottom: 24.48%;
+  left: 6.42%;
+}
+.vector-icon31,
+.vector-icon32 {
+  right: 81.74%;
+  left: 12.34%;
+}
+.vector-icon32 {
+  right: 75.82%;
+  left: 18.26%;
+}
+.per-night-parent {
+  position: absolute;
+  top: 126.56rem;
+  left: 60.74rem;
+  box-shadow: 4px 4px 30px rgba(0, 0, 0, 0.25);
+  width: 14.74rem;
+  height: 19.5rem;
+  text-align: left;
+  font-size: 0.61rem;
+  color: var(--color-dimgray-100);
+  font-family: var(--font-mulish);
+}

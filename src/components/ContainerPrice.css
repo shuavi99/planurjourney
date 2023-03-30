@@ -1,0 +1,57 @@
+.per-night1,
+.reviews2 {
+  position: absolute;
+  top: 14.26rem;
+  left: 3.71rem;
+}
+.per-night1 {
+  top: 15.72rem;
+  left: 4.29rem;
+  font-size: 0.61rem;
+}
+.vector-icon21,
+.vector-icon22,
+.vector-icon23,
+.vector-icon24 {
+  position: absolute;
+  height: 3.2%;
+  width: 3.45%;
+  top: 91.42%;
+  right: 90.13%;
+  bottom: 5.38%;
+  left: 6.42%;
+  max-width: 100%;
+  overflow: hidden;
+  max-height: 100%;
+}
+.vector-icon22,
+.vector-icon23,
+.vector-icon24 {
+  height: 4.25%;
+  width: 5.92%;
+  top: 71.27%;
+  right: 87.17%;
+  bottom: 24.48%;
+  left: 6.91%;
+}
+.vector-icon23,
+.vector-icon24 {
+  right: 81.25%;
+  left: 12.83%;
+}
+.vector-icon24 {
+  right: 75.32%;
+  left: 18.75%;
+}
+.reviews-parent {
+  position: absolute;
+  top: 126.56rem;
+  left: 43.98rem;
+  box-shadow: 4px 4px 30px rgba(0, 0, 0, 0.25);
+  width: 14.74rem;
+  height: 19.5rem;
+  text-align: left;
+  font-size: 0.46rem;
+  color: var(--color-dimgray-100);
+  font-family: var(--font-mulish);
+}

@@ -1,0 +1,98 @@
+.b6,
+.reviews3 {
+  position: absolute;
+  top: 15.31rem;
+  left: 1.02rem;
+}
+.reviews3 {
+  top: 14.26rem;
+  left: 3.27rem;
+  font-size: 0.46rem;
+}
+.frame-child29 {
+  position: absolute;
+  top: 1rem;
+  left: 0.95rem;
+  border-radius: 6.76px;
+  width: 12.95rem;
+  height: 10.31rem;
+  object-fit: cover;
+}
+.ride-inn-cafe {
+  position: absolute;
+  top: 12.17rem;
+  left: 0.95rem;
+  font-weight: 600;
+}
+.see-details5 {
+  position: absolute;
+  top: 15.64rem;
+  left: 9.1rem;
+  font-size: 0.68rem;
+  text-decoration: underline;
+}
+.manali-himanchal-pradesh3 {
+  position: absolute;
+  top: 17.7rem;
+  left: 1.7rem;
+  font-size: 0.61rem;
+  font-weight: 500;
+  color: var(--color-darkgray-200);
+}
+.rectangle-parent14 {
+  position: absolute;
+  top: 0;
+  left: 0;
+  border-radius: 10.15px;
+  border: 0.8px solid var(--color-black);
+  box-sizing: border-box;
+  width: 14.74rem;
+  height: 19.5rem;
+  font-size: 0.9rem;
+}
+.vector-icon25,
+.vector-icon26,
+.vector-icon27,
+.vector-icon28 {
+  position: absolute;
+  height: 3.2%;
+  width: 3.45%;
+  top: 91.42%;
+  right: 90.13%;
+  bottom: 5.38%;
+  left: 6.42%;
+  max-width: 100%;
+  overflow: hidden;
+  max-height: 100%;
+}
+.vector-icon26,
+.vector-icon27,
+.vector-icon28 {
+  height: 3.34%;
+  width: 4.65%;
+  top: 72.5%;
+  right: 88.87%;
+  bottom: 24.16%;
+  left: 6.48%;
+}
+.vector-icon27,
+.vector-icon28 {
+  right: 84.22%;
+  left: 11.13%;
+}
+.vector-icon28 {
+  right: 79.56%;
+  left: 15.78%;
+}
+.group {
+  position: absolute;
+  top: 150.56rem;
+  left: 43.98rem;
+  box-shadow: 4px 4px 30px rgba(0, 0, 0, 0.25);
+  width: 14.74rem;
+  height: 19.5rem;
+  text-align: left;
+  font-size: 0.98rem;
+  color: var(--color-dimgray-100);
+  font-family: var(--font-mulish);
+}

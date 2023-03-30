@@ -1,0 +1,50 @@
+.frame-child28 {
+  position: absolute;
+  top: 1rem;
+  left: 0.95rem;
+  border-radius: 6.76px;
+  width: 12.95rem;
+  height: 10.31rem;
+  object-fit: cover;
+}
+.hotel-snow-bird {
+  position: absolute;
+  top: 12.17rem;
+  left: 0.95rem;
+  font-weight: 600;
+}
+.see-details4 {
+  position: absolute;
+  top: 15.64rem;
+  left: 9.1rem;
+  font-size: 0.68rem;
+  text-decoration: underline;
+}
+.b5 {
+  position: absolute;
+  top: 15.28rem;
+  left: 1.02rem;
+  font-size: 1.04rem;
+}
+.manali-himanchal-pradesh2 {
+  position: absolute;
+  top: 17.7rem;
+  left: 1.7rem;
+  font-size: 0.61rem;
+  font-weight: 500;
+  color: var(--color-darkgray-200);
+}
+.rectangle-parent13 {
+  position: absolute;
+  top: 0;
+  left: 0;
+  border-radius: 10.15px;
+  border: 0.8px solid var(--color-black);
+  box-sizing: border-box;
+  width: 14.74rem;
+  height: 19.5rem;
+  text-align: left;
+  font-size: 0.9rem;
+  color: var(--color-dimgray-100);
+  font-family: var(--font-mulish);
+}

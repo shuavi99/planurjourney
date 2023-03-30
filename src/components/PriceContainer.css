@@ -1,0 +1,85 @@
+.frame-child25,
+.hrtc {
+  position: absolute;
+  left: 0.95rem;
+}
+.frame-child25 {
+  top: 1rem;
+  border-radius: 6.76px;
+  width: 12.95rem;
+  height: 10.31rem;
+  object-fit: cover;
+}
+.hrtc {
+  top: 12.17rem;
+  font-weight: 800;
+}
+.see-details1,
+.to-1020 {
+  position: absolute;
+  top: 13.68rem;
+  left: 1.02rem;
+  font-size: 0.83rem;
+}
+.see-details1 {
+  top: 15.5rem;
+  left: 9.1rem;
+  font-size: 0.68rem;
+  text-decoration: underline;
+}
+.div2 {
+  position: absolute;
+  top: 15.13rem;
+  left: 1.02rem;
+  font-size: 1.04rem;
+  font-weight: 600;
+}
+.himsuta-ac-seater,
+.manali-himanchal-pradesh {
+  position: absolute;
+  top: 12.44rem;
+  left: 3.71rem;
+  font-size: 0.54rem;
+  font-weight: 500;
+  color: var(--color-gray-100);
+}
+.manali-himanchal-pradesh {
+  top: 17.7rem;
+  left: 1.7rem;
+  font-size: 0.61rem;
+  color: var(--color-darkgray-200);
+}
+.rectangle-parent10 {
+  position: absolute;
+  top: 0;
+  left: 0;
+  border-radius: 10.15px;
+  border: 0.8px solid var(--color-black);
+  box-sizing: border-box;
+  width: 14.74rem;
+  height: 19.5rem;
+}
+.vector-icon13 {
+  position: absolute;
+  height: 3.2%;
+  width: 3.45%;
+  top: 91.42%;
+  right: 89.64%;
+  bottom: 5.38%;
+  left: 6.91%;
+  max-width: 100%;
+  overflow: hidden;
+  max-height: 100%;
+}
+.frame-group {
+  position: absolute;
+  top: 102.56rem;
+  left: 27.04rem;
+  box-shadow: 4px 4px 30px rgba(0, 0, 0, 0.65);
+  width: 14.74rem;
+  height: 19.5rem;
+  text-align: left;
+  font-size: 0.9rem;
+  color: var(--color-dimgray-100);
+  font-family: var(--font-mulish);
+}
